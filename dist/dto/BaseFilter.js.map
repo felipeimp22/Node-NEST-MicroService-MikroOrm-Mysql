@@ -1,0 +1,1 @@
+{"version":3,"file":"BaseFilter.js","sourceRoot":"","sources":["../../src/dto/BaseFilter.ts"],"names":[],"mappings":";;AAEA,MAAM,UAAU;IAAhB;QAEE,UAAK,GAAW,EAAE,CAAA;QAGlB,SAAI,GAAW,CAAC,CAAA;IAKlB,CAAC;IAHC,OAAO;QACL,OAAO,IAAI,CAAC,KAAK,GAAG,IAAI,CAAC,IAAI,CAAA;IAC/B,CAAC;CACF;AAED,kBAAe,UAAU,CAAA"}
